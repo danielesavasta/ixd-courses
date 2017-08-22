@@ -22,3 +22,7 @@ https://github.com/gbmksquare/Interaction-Design-Automata
 
 Thom Hines: Interaction Design Principles
 https://github.com/thomhines/interaction-design-principles
+
+Other sources:
+https://github.com/ideo/avocado
+https://github.com/rodriguezcarlos/EducationShield/
