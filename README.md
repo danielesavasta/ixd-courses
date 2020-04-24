@@ -26,3 +26,7 @@ https://github.com/thomhines/interaction-design-principles
 Other sources:
 https://github.com/ideo/avocado
 https://github.com/rodriguezcarlos/EducationShield/
+http://vda-lab.github.io/2015/10/hands-on-data-visualization-using-p5
+https://nycdoe-cs4all.github.io
+https://www.lyceelecorbusier.eu/p5js/?p=2981
+http://purin.co/Experiments-with-P5-js
